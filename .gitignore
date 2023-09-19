@@ -1,0 +1,7 @@
+# Project exclude paths
+/case_java7/target/
+/case_java8/target/
+/case_tomcat/target/
+/jcstress_ordering/target/
+/jmh_eliminate_locks/target/
+/jmh_performance/target/
